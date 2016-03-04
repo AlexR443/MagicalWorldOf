@@ -1,0 +1,65 @@
+h1 {
+    color: blueviolet;
+    font-size: 400%;
+    font-weight: bolder;
+    border-width: 3px;
+    border-style: solid;
+    border-color: blueviolet;
+
+}
+
+h2 {
+    color: blueviolet;
+    font-size: 300%
+}
+
+h3 {
+    color: blueviolet;
+    font-size: 200%
+}
+
+body {
+    background-color: beige;
+    max-width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+p {
+    font-size: 150%
+}
+
+a: link {
+    background-color: yellow;
+}
+
+a:visited {
+    background-color: cyan
+}
+
+a:hover {
+    background-color: lightgreen
+}
+
+a:active {
+    background-color: hotpink
+}
+
+* {
+    font-family: 'Slabo 27px', serif;
+}
+
+li {
+    font-size: 150%
+}
+
+img {width: 200mm}
+
+label {font-family: 'Slabo 27px', serif; font-size: 150%}
+input {font-family: 'Slabo 27px', serif; font-size: 150%; color: blueviolet;}
+
+#degree {font-weight: bolder;
+    color: blueviolet;}
+
+#copyright {color: blueviolet}
